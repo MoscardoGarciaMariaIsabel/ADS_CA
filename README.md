@@ -1,7 +1,7 @@
 # Roche ADS Programmer – Coding Assessment
 
-**Candidate:** Maria Isabel Moscardo Garcia 
-**Position:** ADS Programmer  
+**Candidate:** Maria Isabel Moscardo Garcia    
+**Position:** ADS Programmer   
 **Date Submitted:** 11.03.2026
 
 ## Overview
