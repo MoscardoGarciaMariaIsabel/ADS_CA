@@ -1,0 +1,19 @@
+G3;ℹ These terms could not be mapped per the controlled terminology: "Ambul Ecg Removal", "Unscheduled 6.1", "Unscheduled 1.1", "Unscheduled 5.1", "Unscheduled 4.1", "Unscheduled 8.2", and "Unscheduled 13.1".
+gG3;ℹ These terms could not be mapped per the controlled terminology: "Ambul Ecg Removal", "Unscheduled 6.1", "Unscheduled 1.1", "Unscheduled 5.1", "Unscheduled 4.1", "Unscheduled 8.2", and "Unscheduled 13.1".
+g[1] "Snapshot of Derived Variables for first 10 subjects:"
+# A tibble: 850 × 12
+   STUDYID      DOMAIN USUBJID     DSSEQ DSTERM                DSDECOD               DSCAT  VISITNUM VISIT DSDTC DSSTDTC    DSSTDY
+   <chr>        <chr>  <chr>       <int> <chr>                 <chr>                 <chr>  <chr>    <chr> <iso> <date>      <int>
+ 1 CDISCPILOT01 DS     01-701-1015     1 Randomized            Randomized            PROTO… 3        BASE… 2014… 2014-01-02      1
+ 2 CDISCPILOT01 DS     01-701-1015     2 Protocol Completed    Completed             DISPO… 13       WEEK… 2014… 2014-07-02    182
+ 3 CDISCPILOT01 DS     01-701-1015     3 Final Lab Visit       Final Lab Visit       OTHER… 13       WEEK… 2014… 2014-07-02    182
+ 4 CDISCPILOT01 DS     01-701-1023     1 Randomized            Randomized            PROTO… 3        BASE… 2012… 2012-08-05      1
+ 5 CDISCPILOT01 DS     01-701-1023     2 Adverse Event         Adverse Event         DISPO… 5        WEEK… 2012… 2012-09-02     29
+ 6 CDISCPILOT01 DS     01-701-1023     3 Final Lab Visit       Final Lab Visit       OTHER… 5        WEEK… 2012… 2012-09-02     29
+ 7 CDISCPILOT01 DS     01-701-1023     4 Final Retrieval Visit Final Retrieval Visit OTHER… 201      RETR… 2013… 2013-02-18    198
+ 8 CDISCPILOT01 DS     01-701-1028     1 Randomized            Randomized            PROTO… 3        BASE… 2013… 2013-07-19      1
+ 9 CDISCPILOT01 DS     01-701-1028     2 Protocol Completed    Completed             DISPO… 13       WEEK… 2014… 2014-01-14    180
+10 CDISCPILOT01 DS     01-701-1028     3 Final Lab Visit       Final Lab Visit       OTHER… 13       WEEK… 2014… 2014-01-14    180
+# ℹ 840 more rows
+# ℹ Use `print(n = ...)` to see more rows
+[1] "SUCCESS: The program ran without errors and the DS domain has been generated."
